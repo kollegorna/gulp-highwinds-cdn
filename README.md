@@ -1,5 +1,5 @@
-# gulp-highwinds
-[![NPM](https://nodei.co/npm/gulp-highwinds.png)](https://npmjs.org/package/gulp-highwinds)
+# gulp-highwinds-cdn
+[![NPM](https://nodei.co/npm/gulp-highwinds-cdn.png)](https://npmjs.org/package/gulp-highwinds-cdn)
 
 Highwinds CDN plugin for [gulp](https://github.com/wearefractal/gulp).
 
