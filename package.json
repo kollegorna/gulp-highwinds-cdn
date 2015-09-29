@@ -1,0 +1,43 @@
+{
+  "name": "gulp-highwinds-cdn",
+  "version": "0.1.0",
+  "description": "A plugin for Gulp that handles purging for Highwinds CDN",
+  "keywords": [
+    "gulpplugin",
+    "gulp",
+    "cdn",
+    "highwinds"
+  ],
+  "homepage": "https://github.com/kollegorna/gulp-highwinds-cdn",
+  "bugs": "https://github.com/kollegorna/gulp-highwinds-cdn/issues",
+  "author": {
+    "name": "Henrik Sjökvist",
+    "url": "https://github.com/kollegorna"
+  },
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kollegorna/gulp-highwinds-cdn.git"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "gulp-util": "~2.2.6",
+    "request": "~2.62.0"
+  },
+  "devDependencies": {
+    "mocha": "~1.14.0",
+    "should": "~2.1.0"
+  },
+  "engines": {
+    "node": ">=0.8.0",
+    "npm": ">=1.2.10"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/kollegorna/gulp-highwinds-cdn/blob/master/LICENSE"
+    }
+  ]
+}
